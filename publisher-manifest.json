@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "519ce396d44ed89646c367f9",
+  "owner": "ber4gyatf",
+  "repo": "page-7323fee75c37e9c9a59aa6c7",
+  "title": "西游记",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7323fee75c37e9c9a59aa6c7",
+      "a": "西游记",
+      "b": "2027官方最新地址导航",
+      "entity": "西游记",
+      "brand": "西游记",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2130b944dacd0f73d19dc5898c4346074a79056d1db5e71be80a478f4e06068a",
+      "content": {
+        "primary_entity": "西游记",
+        "keyword1": "西游记",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "不同系统安装对应客户端，订阅配置方式略有差异。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "对照设备数量与流量需求，选定套餐后按客户端文档完成配置。",
+          "AI_CLOSING_TITLE": "选对套餐再订阅",
+          "AI_DESCRIPTION": "，面向跨区访问、流媒体与联机游戏场景，提供按月或按年订阅的加速服务。基础版每月 100GB 流量、支持 3 台设备，适合个人日常浏览；旗舰版每月 300GB、5 台设备与 IPLC 专线，兼顾高清流媒体与低延迟游戏；团队版每月 1000GB、20 台设备并支持定制路由，便于多人协作。用户可先确认终端数量与流量需求，再对照套餐权益完成订阅。",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度与线路类型三个角度挑选合适套餐。",
+          "AI_FEATURES_TITLE": "按需选择订阅方案",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按常用终端数量匹配。",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB 与 1000GB 三档，重度流媒体建议更高额度。",
+          "AI_FEATURE_TEXT_3": "旗舰版采用 IPLC 专线优化游戏延迟，团队版提供 VIP 高带宽节点。",
+          "AI_FEATURE_TITLE_1": "设备数量先确认",
+          "AI_FEATURE_TITLE_2": "流量额度看习惯",
+          "AI_FEATURE_TITLE_3": "线路类型定体验",
+          "AI_GUIDE_INTRO": "先选服务，再确认设备适配，最后依客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "开通与配置步骤",
+          "AI_HERO_INTRO": "西游记是一款面向海外网络访问的加速服务，围绕流媒体解锁、联机游戏加速和多设备订阅设计。按流量、设备数与线路类型划分基础版、旗舰版和团队版，用户可依据常用终端数量与月均流量选定套餐，再按对应客户端完成订阅导入与配置。",
+          "AI_HERO_SUBTITLE": "跨区访问与联机加速的订阅选择",
+          "AI_HIGHLIGHT_1": "基础版轻量起步，适合少量设备",
+          "AI_HIGHLIGHT_2": "旗舰版专线优化，兼顾游戏与影音",
+          "AI_HIGHLIGHT_3": "团队版高带宽，支持定制路由",
+          "AI_PLANS_INTRO": "三档套餐按流量与设备数区分，年付可节省部分费用。基础版 ¥15/月（年付 ¥150），旗舰版 ¥35/月（年付 ¥350），团队版 ¥85/月（年付 ¥850）。",
+          "AI_PLANS_TITLE": "套餐对比与订阅周期",
+          "AI_STEP_TEXT_1": "根据终端数量与月均流量，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "核对系统版本与设备数量限制，确认所选套餐覆盖当前终端。",
+          "AI_STEP_TEXT_3": "按对应客户端文档添加订阅信息，完成后即可开始使用加速服务。",
+          "AI_STEP_TITLE_1": "选择服务方案",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "西游记加速器套餐与订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "西游记的套餐可以中途升级吗？",
+          "AI_FAQ_ANSWER_1": "可以。从基础版升级到旗舰版或团队版时，按剩余周期折算差价，具体操作以购买后的账户页面为准。",
+          "AI_FAQ_QUESTION_2": "一个订阅能同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版3台，旗舰版5台，团队版20台。多设备同时在线时建议留意各设备流量叠加消耗。",
+          "AI_FAQ_QUESTION_3": "按年付和按月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "按年付相当于以更低月均价格锁定长期使用，例如旗舰版按年¥350，比按月支付更节省。",
+          "AI_FAQ_QUESTION_4": "手机和电脑都能使用同一订阅吗？",
+          "AI_FAQ_ANSWER_4": "可以。在手机、平板或电脑上分别安装对应客户端，导入同一订阅信息即可，但需注意同时在线设备数限制。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "适合20台以内设备的小团队或工作室，1000GB流量与高带宽节点可满足多人协作与实时应用需求。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "semnevert6.cn",
+    "host": "semnevert6.cn"
+  },
+  "file_hashes": {
+    "index.html": "07cd1b4fbd9756eea940cfa69e92e293d2d2d9986ba4876fee8a6fcaa39a939a",
+    "sitemap.xml": "b3f1a2e7dafe73cd50d48cacab7766866e6eca09b708d3d248b89ce7b494b401",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f78ad54044d4eb5e773e98b0ba4690e4824ee164a48ccea002abb9db5aa4899c",
+    "robots.txt": "e31d049642fb17ee48613d04d5493d3912b6095f0a232f4b1e02a0253a81764a",
+    "015f5f47afcb1e682b297299add0936a.txt": "c5313b7bcb6c261734faffba5843f947ad8838af20565acbe5b3433fcaf6d4da"
+  },
+  "revision": "d062d2ca3578e3891c0ecdb0f58a017f158a0b2507b0e336dea881b37933e1fe"
+}
